@@ -598,7 +598,9 @@ a {
   border-top: 0px;
 }
 
-.portfolio-item > a {
+.portfolio-link {
+  display: block;
+  
   color: inherit;
 }
 
